@@ -1,6 +1,8 @@
 # Analyzing COVID 19 Disparities in Missouri Through a Socioeconomic Lens
-Final project of BMI5304. 
+Final project of BMI5304.
+
 Ronghan Li (李融寒)
+
 GR1, Biomedical Informatics and Data Science Ph.D. student.
 
 ## Introduction
