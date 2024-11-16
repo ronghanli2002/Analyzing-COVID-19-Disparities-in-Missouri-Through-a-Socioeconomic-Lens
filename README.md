@@ -10,6 +10,6 @@ The COVID-19 pandemic has had profound impacts worldwide, with significant varia
 
 ## Methods and Materials
 ### Entity-relationship diagram (ERD)
-![covid_income_diagram drawio](https://github.com/user-attachments/assets/a8678df1-1039-476c-9021-6ddf495fec6f)
+![covid_income_diagram](https://github.com/user-attachments/assets/4eedd8ca-7bbf-49c5-94f9-76f8b512cbb5)
 
 ### Workflow for analytical/statistical approaches
