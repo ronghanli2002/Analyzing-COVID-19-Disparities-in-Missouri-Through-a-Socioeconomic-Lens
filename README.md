@@ -13,3 +13,5 @@ The COVID-19 pandemic has had profound impacts worldwide, with significant varia
 ![covid_income_diagram](https://github.com/user-attachments/assets/163cf45b-80fa-4331-b3e5-d3c482abeb5f)
 
 ### Workflow for analytical/statistical approaches
+![statistical workflow](https://github.com/user-attachments/assets/ad647255-4017-43ba-921b-f8da15d38de8)
+Created in https://BioRender.com
