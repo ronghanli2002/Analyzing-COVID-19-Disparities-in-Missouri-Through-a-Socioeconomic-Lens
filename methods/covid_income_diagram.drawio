@@ -115,7 +115,7 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="Covid-19" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="CovidPatients" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="248" y="77" width="566" height="940" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=20;" parent="C-vyLk0tnHw3VtMMgP7b-23" vertex="1">
@@ -532,7 +532,7 @@
             <mxRectangle width="126" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r6oNL-vnzAbSqa5q5V7K-12" value="Household Income" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="r6oNL-vnzAbSqa5q5V7K-12" value="HouseholdIncome" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1741" y="145" width="560" height="230" as="geometry" />
         </mxCell>
         <mxCell id="r6oNL-vnzAbSqa5q5V7K-13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=20;" parent="r6oNL-vnzAbSqa5q5V7K-12" vertex="1">
